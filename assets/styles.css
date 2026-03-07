@@ -268,7 +268,7 @@ section {
   border-radius: 0.5rem;
   height: auto;
   margin-bottom: 0.5rem;
-  background-image: url("bg-card.webp");
+  background-image: url("../assets/product-bg.svg");
   background-size: cover;
   background-position: center;
 }
